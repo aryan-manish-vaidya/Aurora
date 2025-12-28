@@ -11,7 +11,7 @@ Just provide the direct answer or assistance naturally.
 // !!! SECURITY WARNING !!!
 // If you paste your API key here, do NOT share this code publicly (GitHub, etc).
 // Anyone with this code can use your API quota.
-const PRE_FILLED_API_KEY = "AIzaSyAC7pEEOtItCWqGgHt60mqXkbbEg5vh8Io"; // <--- PASTE YOUR KEY INSIDE THE QUOTES
+const PRE_FILLED_API_KEY = " "; // <--- PASTE YOUR KEY INSIDE THE QUOTES
 
 export default function AuroraApp() {
   // --- State ---
