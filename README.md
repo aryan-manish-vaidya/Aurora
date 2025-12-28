@@ -47,7 +47,7 @@ cd aurora-voice-concierge
 Install dependencies:
 
 npm install
-# or
+or
 yarn install
 
 
